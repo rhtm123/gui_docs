@@ -1,6 +1,5 @@
 
 ## import 
-from tabnanny import check
 import PySimpleGUI as sg
 
 ## theme 
